@@ -149,7 +149,7 @@
 
 
 <br clear="both">
-
+<hr style="width:100%;text-align:left;margin-left:0">
 <img src="https://raw.githubusercontent.com/deveshd01/deveshd01/output/snake.svg" alt="Snake animation" />
 
 ###
