@@ -46,7 +46,7 @@
 
 <h3 align="left">🛠 Language and tools</h3>
 
-<img align="right" height="350" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif"  />
+<img align="right" height="250" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif"  />
 
 ###
 <div align="left">
