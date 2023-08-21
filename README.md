@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2017<br>📚 I'm currently learning: Diving deep into machine learning and AI algorithms<br>🎯 Goals: "Striving to conquer innovative tech projects that make a positive impact, while sharpening my skills in Data Science and Cloud Technology."<br>🎲 Fun fact: I can solve a Rubik's Cube in under 90 Sec!</p>
+<p align="left">✨ Creating bugs since 2017<br>📚 I'm currently learning: Diving deep into machine learning and AI algorithms<br>🎯 Goals: Striving to conquer innovative tech projects that make a positive impact, while sharpening my skills in Data Science and Cloud<br>🎲 Fun fact: I can solve a Rubik's Cube in under 90 Sec!</p>
 
 ###
 
