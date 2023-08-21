@@ -46,6 +46,8 @@
 
 <h3 align="left">🛠 Language and tools</h3>
 
+<img align="right" height="350" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif"  />
+
 ###
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
