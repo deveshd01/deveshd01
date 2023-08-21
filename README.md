@@ -43,7 +43,7 @@
 
 ###
 
-
+<hr style="width:100%;text-align:left;margin-left:0">
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
@@ -55,6 +55,8 @@
 </div>
 
 ###
+
+<hr style="width:100%;text-align:left;margin-left:0">
 
 <h3 align="left">🛠 Language and tools</h3>
 
